@@ -1,0 +1,27 @@
+body{
+    background-image: url("Imagecal.jpg");
+}
+.container{
+    text-align: center;
+}
+table{
+    margin: auto;
+}
+input{
+    font-size: 34px;
+    border: 5px solid #fff;
+    border-radius: 19px; 
+}
+button{
+    font-size: 23px;
+    background-color: cornsilk;
+    width: 102px;
+    height: 58px;
+    border-radius: 20px;
+}
+.calculator{
+    display: inline-block;
+    border-radius: 50px;
+    background-color: cyan;
+    padding: 20px;
+}
